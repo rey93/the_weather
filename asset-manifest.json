@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/the_weather/static/css/main.7f935235.css",
+    "main.js": "/the_weather/static/js/main.acbd983e.js",
+    "static/media/lluvia.png": "/the_weather/static/media/lluvia.a402b180bda236987ed9.png",
+    "static/media/parcialmentenubladocontruenos.png": "/the_weather/static/media/parcialmentenubladocontruenos.b8870b2fad80d1b2d0a5.png",
+    "static/media/nublado.png": "/the_weather/static/media/nublado.7e60cbf43f80cbe01457.png",
+    "static/media/soleado.png": "/the_weather/static/media/soleado.846dea5cac741da8bc68.png",
+    "static/media/parcialmentenublado.png": "/the_weather/static/media/parcialmentenublado.2d36ded5bd0d226eca3d.png",
+    "index.html": "/the_weather/index.html",
+    "main.7f935235.css.map": "/the_weather/static/css/main.7f935235.css.map",
+    "main.acbd983e.js.map": "/the_weather/static/js/main.acbd983e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f935235.css",
+    "static/js/main.acbd983e.js"
+  ]
+}
